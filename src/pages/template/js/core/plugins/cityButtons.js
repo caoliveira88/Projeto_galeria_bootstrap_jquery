@@ -1,5 +1,7 @@
 import $ from 'jquery' 
 
+import { onLoadHtmlSuccess } from '../core/includes'
+
 const duration = 300
 
 // plugin para exibir fotos filtradas por cidade
